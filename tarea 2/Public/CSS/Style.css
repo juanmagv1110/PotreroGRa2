@@ -1,0 +1,20 @@
+/*selector de etiquetas*/
+*{
+    font-family: sans-serif;
+}
+p{
+
+    color:brown;
+}
+/*selector de clase*/
+/*sintaxis de selector de clase*/
+/*
+.nombreDeLaClase {}
+*/
+.color-verde{
+    color: green;
+}
+
+.color-h2{
+    color: yellowgreen;
+}
